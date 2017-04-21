@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0DDCBCD77EF52CE5F623C50FEFC1349C40B0849F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "44D0CD638D56718BC82306F73BCF75ECE508CE9E" : 9223372036854775807,
+    "0DDCBCD77EF52CE5F623C50FEFC1349C40B0849F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85FB3674-9D94-49FE-B8E3-8434AAB2F783",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "44D0CD638D56718BC82306F73BCF75ECE508CE9E" : "",
+    "0DDCBCD77EF52CE5F623C50FEFC1349C40B0849F" : "LotteryNews\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LotteryNews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LotteryNews\/LotteryNews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/xcode8\/LotteryNews.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0DDCBCD77EF52CE5F623C50FEFC1349C40B0849F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/xcode8\/Lottery-predictions-artifact.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "44D0CD638D56718BC82306F73BCF75ECE508CE9E"
+    }
+  ]
+}
